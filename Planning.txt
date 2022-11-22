@@ -1,0 +1,35 @@
+Roguelike Dungeon Crawler
+
+Mehrere Ebenen
+Schwächerer Zwischenboss
+Endboss
+
+Charakterwahl
+Charakter hat 1 Ult, ggf 1 Fähigkeit
+Hat Stats
+HP -> Lebenspunkte
+ATK -> Angriff
+DEF -> Verteidigung
+AP -> Fähigkeitsstärke
+ER -> Energieregeneration
+CR -> Kritische Trefferrate
+
+Trägt Waffe
+Waffe hat 1 Angriffspattern und 1 Fähigkeit
+
+Waffen-Typen:
+Hammer
+Schwert
+Stab
+Bogen
+Speer
+Shuriken
+
+Waffen haben Seltenheitsstufen
+Legendäre Waffen:
+Bollwerk (Hammer)
+Zyrans's Bloodlust (Bogen)
+Aconex Wrath (Speer)
+Gregorial Feast (Schwert)
+Divine Clemency (Stab)
+Umbral Eclipse (Shuriken)
